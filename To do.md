@@ -13,3 +13,4 @@
 - [ ] checken ob results aus der query leer ist oder nicht, bevor ich damit arbeite!!
 - [ ] überall wo rdf:Type dabei ist auch a hinzufügen!
 - [ ] schau, welcher triplestore geused wird
+- [ ] dasselbe auch für lokale graphen erstellen
