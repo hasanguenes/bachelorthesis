@@ -1,0 +1,42 @@
+# Ignoriere alle Turtle-Dateien
+*.ttl
+
+# Ignoriere komprimierte Dateien
+*.bz2
+*.zip
+*.tar.gz
+*.7z
+
+# Python-typische Dateien und Ordner
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+env/
+venv/
+.Python
+*.egg-info/
+*.egg
+pip-log.txt
+
+# Node.js-typische Ordner und Dateien
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+
+# IDE/Editor-Artefakte
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Betriebssystem- und temporäre Dateien
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak

@@ -1,0 +1,1 @@
+No one like me, they only like [[NoteStar]].

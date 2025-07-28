@@ -1,0 +1,15 @@
+- [ ] [[RDF (Resource Description Framework)]]: RDF Vocabularies
+- [ ] [[SHACL (Shapes Constraint Language)]] finishing note
+- [x] looking at rdflib
+- [x] trying some implementing with python
+- [x] try SPARQL endpoints for ttl file ptah
+- [ ] research about what to count as a class for
+- [ ] check if uploaded rdf graph is valid
+- [ ] implement metrics in python using sparql
+- [ ] Idee: dfs mit networkX implementieren, dann umsetzen mti rdflib+sparql!
+- [ ] github repo
+- [x] debug prints einbauen
+- [ ] i do not really get what is counted as a class
+- [ ] checken ob results aus der query leer ist oder nicht, bevor ich damit arbeite!!
+- [ ] überall wo rdf:Type dabei ist auch a hinzufügen!
+- [ ] schau, welcher triplestore geused wird
