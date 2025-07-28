@@ -7,5 +7,5 @@ WIKIDATA = "./code/wikidata-20250502-lexemes-BETA.ttl"
 
 GPT_EX = "./code/chatgpt_examples/chatgpt_ex.ttl"
 GPT_SUBCLASSES = "./code/chatgpt_examples/subclass_ex.ttl"
-
+GPT_EX2 = "./code/chatgpt_examples/example.ttl"
 #print("AVAILABLE NAMES:", dir())
