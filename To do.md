@@ -16,3 +16,4 @@
 - [ ] dasselbe auch für lokale graphen erstellen
 - [ ] retry bei send_query einbauen, falls server überlastet usw.
 - [ ] fehlerbehandlung bei send_query allg.
+- [ ] schau seine letzte mail
