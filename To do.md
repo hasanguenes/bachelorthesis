@@ -14,3 +14,5 @@
 - [ ] überall wo rdf:Type dabei ist auch a hinzufügen!
 - [ ] schau, welcher triplestore geused wird
 - [ ] dasselbe auch für lokale graphen erstellen
+- [ ] retry bei send_query einbauen, falls server überlastet usw.
+- [ ] fehlerbehandlung bei send_query allg.
