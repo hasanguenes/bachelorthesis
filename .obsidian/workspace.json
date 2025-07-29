@@ -43,8 +43,7 @@
               "title": "How does knowledge evolve in open knowledge graphs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,20 +191,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d8e0230f3a6876a",
+  "active": "dbb7e1392e64d749",
   "lastOpenFiles": [
-    "To do.md",
+    "Literatur/Notizen/SHACL (Shapes Constraint Language).md",
+    "Literatur/Notizen/RDF (Resource Description Framework).md",
     "Literatur/PDFs/How does knowledge evolve in open knowledge graphs.pdf",
+    "To do.md",
     "outline bachelorthesis.md",
     "code/chatgpt_examples/example.ttl",
     "Textdokument (neu).txt",
-    "Literatur/Notizen/SHACL (Shapes Constraint Language).md",
     "Literatur/PDFs/Quellen/227_document.pdf",
     "Literatur/PDFs/Quellen/Nicht bestätigt 418793.crdownload",
     "Literatur/PDFs/Quellen/205_1135777.1135826.pdf",
     "Literatur/PDFs/Quellen/Nicht bestätigt 351083.crdownload",
     "Literatur/Notizen/Resources.md",
-    "Literatur/Notizen/RDF (Resource Description Framework).md",
     "code/calc_metrics_sparql.ipynb",
     "code/venv/Lib/site-packages/SPARQLWrapper-2.0.0.dist-info/WHEEL",
     "code/venv/Lib/site-packages/SPARQLWrapper-2.0.0.dist-info/top_level.txt",

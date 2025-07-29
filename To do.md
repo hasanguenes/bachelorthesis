@@ -17,3 +17,4 @@
 - [ ] retry bei send_query einbauen, falls server überlastet usw.
 - [ ] fehlerbehandlung bei send_query allg.
 - [ ] schau seine letzte mail
+- [ ] literal check mit lang_tag & datatype auch bei pfadsuche!
