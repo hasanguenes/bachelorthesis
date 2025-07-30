@@ -11,12 +11,14 @@
             "id": "dbb7e1392e64d749",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Literatur/PDFs/How does knowledge evolve in open knowledge graphs.pdf"
+                "file": "To do.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "How does knowledge evolve in open knowledge graphs"
+              "icon": "lucide-file",
+              "title": "To do"
             }
           },
           {
@@ -193,9 +195,9 @@
   },
   "active": "dbb7e1392e64d749",
   "lastOpenFiles": [
+    "Literatur/PDFs/How does knowledge evolve in open knowledge graphs.pdf",
     "To do.md",
     "outline bachelorthesis.md",
-    "Literatur/PDFs/How does knowledge evolve in open knowledge graphs.pdf",
     "Literatur/Notizen/SHACL (Shapes Constraint Language).md",
     "Literatur/Notizen/RDF (Resource Description Framework).md",
     "code/chatgpt_examples/example.ttl",

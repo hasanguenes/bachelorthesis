@@ -16,3 +16,7 @@
 - [ ] retry bei send_query einbauen, falls server überlastet usw.
 - [ ] fehlerbehandlung bei send_query allg.
 - [ ] literal check mit lang_tag & datatype auch bei pfadsuche!
+- [ ] debugging von cohesion für: 
+	- [ ] endpoint_url = "https://data.europa.eu/sparql"
+	- [ ] default_graph = "http://data.europa.eu/88u/dataset/0800af55-8e56-49a0-8986-aa55151d0440"
+- [ ] für verschiedene lokale graphen: parsen von verschiedenen files (json usw.) einfügen
