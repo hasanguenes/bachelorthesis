@@ -1,6 +1,7 @@
 endpoint: https://lov.linkeddata.es/dataset/lov/sparql
 results: http://purl.org/cwmo/# 
 ->  41: bissi mehr als 3 min
+-> 3: 3:53
 
 endpoint: https://lov.linkeddata.es/dataset/lov/sparql
 results: http://purl.org/wf4ever/ro
