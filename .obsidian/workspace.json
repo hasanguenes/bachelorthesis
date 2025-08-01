@@ -11,12 +11,28 @@
             "id": "dbb7e1392e64d749",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Literatur/PDFs/How does knowledge evolve in open knowledge graphs.pdf"
+                "file": "To do.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "How does knowledge evolve in open knowledge graphs"
+              "icon": "lucide-file",
+              "title": "To do"
+            }
+          },
+          {
+            "id": "2edb90a964d33311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cohesion results.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cohesion results"
             }
           },
           {
@@ -43,7 +59,8 @@
               "title": "How does knowledge evolve in open knowledge graphs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,11 +208,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbb7e1392e64d749",
+  "active": "2edb90a964d33311",
   "lastOpenFiles": [
+    "To do.md",
+    "cohesion results.md",
     "outline bachelorthesis.md",
     "Literatur/PDFs/How does knowledge evolve in open knowledge graphs.pdf",
-    "To do.md",
     "Literatur/Notizen/SHACL (Shapes Constraint Language).md",
     "Literatur/Notizen/RDF (Resource Description Framework).md",
     "code/chatgpt_examples/example.ttl",

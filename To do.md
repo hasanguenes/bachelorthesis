@@ -9,7 +9,7 @@
 - [ ] Idee: dfs mit networkX implementieren, dann umsetzen mti rdflib+sparql!
 - [x] github repo
 - [x] debug prints einbauen
-- [ ] i do not really get what is counted as a class
+- [x] i do not really get what is counted as a class
 - [ ] checken ob results aus der query leer ist oder nicht, bevor ich damit arbeite!!
 - [ ] schau, welcher triplestore geused wird
 - [ ] dasselbe auch für lokale graphen erstellen
