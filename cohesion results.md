@@ -1,8 +1,9 @@
 endpoint =  https://lov.linkeddata.es/dataset/lov/sparql
 default_graph = http://purl.org/cwmo/# 
-->  41: bissi mehr als 3 min
+->  cohwaion=41: bissi mehr als 3 min
 -> mit richtigem bnode check in function: cohesion=3: 3:53
 -> mit vorzeitigem abbruch bei visited=all_nodes: cohesion=3 : 3:59
+-> neueste version mit bnodes mit all nodes abfangen: cohesion=3: 3:11
 
 endpoint_url = https://lov.linkeddata.es/dataset/lov/sparql
 default_graph = http://purl.org/wf4ever/ro
@@ -13,3 +14,4 @@ default_graph = http://purl.org/wf4ever/ro
 
 endpoint_url = "https://data.europa.eu/sparql"
 default_graph = "http://data.europa.eu/88u/dataset/0800af55-8e56-49a0-8986-aa55151d0440"
+-> neueste version mit bnodes mit all nodes abfangen: cohesion=1: 4.9 s

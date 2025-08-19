@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cohesion results.md",
+                "file": "To do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cohesion results"
+              "title": "To do"
             }
           },
           {
@@ -210,8 +210,8 @@
   },
   "active": "2edb90a964d33311",
   "lastOpenFiles": [
-    "To do.md",
     "cohesion results.md",
+    "To do.md",
     "outline bachelorthesis.md",
     "Literatur/PDFs/How does knowledge evolve in open knowledge graphs.pdf",
     "Literatur/Notizen/SHACL (Shapes Constraint Language).md",
