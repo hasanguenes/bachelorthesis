@@ -20,3 +20,4 @@
 	- [ ] endpoint_url = "https://data.europa.eu/sparql"
 	- [ ] default_graph = "http://data.europa.eu/88u/dataset/0800af55-8e56-49a0-8986-aa55151d0440"
 - [ ] für verschiedene lokale graphen: parsen von verschiedenen files (json usw.) einfügen
+- [ ] online graphen auch lokal herunteralden und beides exploizit ausprobieren und ergebnisse der beiden programme auf gleichheit vergleichen
